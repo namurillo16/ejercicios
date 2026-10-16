@@ -30,8 +30,6 @@ public class AREAPERIMETRO {
                 JOptionPane.showMessageDialog(null,"El area es :"+
                                                 area+"\n"+
                                             "El perimetro es :"+ perimetro
-                                            
-                
                 
                 );
                 
